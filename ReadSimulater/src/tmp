@@ -1,0 +1,61 @@
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_44006066_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1595 hits found
+chr10_SEQID_44006066_100	chr10	100.000	100	0	0	1	100	44006067	44006166	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_129901556_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_129901556_100	chr10	100.000	100	0	0	1	100	129901557	129901656	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_112007106_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 270 hits found
+chr10_SEQID_112007106_100	chr10	100.000	100	0	0	1	100	112007107	112007206	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_9985203_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_9985203_100	chr10	100.000	100	0	0	1	100	9985204	9985303	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_126026119_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_126026119_100	chr10	100.000	100	0	0	1	100	126026120	126026219	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_3896831_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 32 hits found
+chr10_SEQID_3896831_100	chr10	100.000	100	0	0	1	100	3896832	3896931	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_95852068_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_95852068_100	chr10	100.000	100	0	0	1	100	95852069	95852168	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_6897704_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_6897704_100	chr10	100.000	100	0	0	1	100	6897705	6897804	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_127037574_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_127037574_100	chr10	100.000	100	0	0	1	100	127037575	127037674	1.98e-47	192
+# BLASTN 2.6.0+
+# Query: chr10_SEQID_122100921_100
+# Database: /picb/rnomics4/yudalang/hg19_add_annotation/blastdb/hg19_common.fa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+chr10_SEQID_122100921_100	chr10	100.000	100	0	0	1	100	122100922	122101021	1.98e-47	192
+# BLAST processed 10 queries

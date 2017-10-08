@@ -1,0 +1,16 @@
+CLUSTAL format alignment by MAFFT FFT-NS-2 (v7.310)
+
+
+seq_1           -------------------tttttgcctgagagacctcattgcagtttctgattttttga
+seq_2           -------------------tttttgcctgagagacctcattgcagtttctgattttttga
+seq_3           ------accggcgtcaaagtatttagctgactcgccacactcca----------------
+seq_4           -------------------tttttgcctgagagacctcattgcagtttctgattttttga
+seq_5           atgtgaacatggaggggtgtgtgtgtccg-----------------tgtgtaggtttgcg
+                                   * * *. *.*                               
+
+seq_1           tgtcttcatccatcactgtccttgtcaaatagtttggaacaggta-----------
+seq_2           tgtcttcatccatcactgtccttgtcaaatagtttggaacaggta-----------
+seq_3           -------------cggaagcaatatgaaatgatctgctgcagtgctctgagcccta
+seq_4           tgtcttcatccatcactgtccttgtcaaatagtttggaacaggta-----------
+seq_5           tgcatgcacacatgcatgtgtgtactggggcatcc---------------------
+                                 .    *.. ...  .*..                     

@@ -1,0 +1,4 @@
+20170827:
+SimpleReadsSimulator_0.1.py :
+usage: python SimpleReadsSimulator_0.1.py ../data/human_genome_chr1_subseq_fromHead.fasta reads_out statement
+Note:this script can only produce the single end fastq, pair end reads need to debug

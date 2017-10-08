@@ -1,0 +1,38 @@
+use Cow;
+use Horse;
+use Sheep;
+
+Cow->speak;
+Horse->speak;
+Sheep->speak;
+
+print "\n--------------------------------\n";
+
+
+my @pasture = qw /Cow Horse Sheep Sheep/;
+
+foreach my $beast(@pasture){
+    $beast->speak;
+}
+
+print "\n--------------------------------\n";
+
+
+use Mouse;
+
+Mouse->speak;
+
+print "\n--------------------------------\n";
+
+# Here comes a person
+
+use Person;
+
+Person->speak;
+Person->speak("Hello, world!");
+
+Mouse->speak("Hello,world");
+# Cow will produce the error
+Cow->speak("Hello,world");
+
+print "for test";
